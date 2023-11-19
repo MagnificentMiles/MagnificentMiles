@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MagnificentMiles
+- 👀 I’m interested in Swift and iOS
+- 🌱 I’m currently learning enough to create my own indie app
+- 💞️ I’m looking to collaborate on tools that I use
